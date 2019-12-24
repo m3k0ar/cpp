@@ -1,0 +1,6 @@
+/Users/armand/Documents/cpp/creating_a_header_only_library/build/CMakeFiles/install/local.dir
+/Users/armand/Documents/cpp/creating_a_header_only_library/build/CMakeFiles/install/strip.dir
+/Users/armand/Documents/cpp/creating_a_header_only_library/build/CMakeFiles/install.dir
+/Users/armand/Documents/cpp/creating_a_header_only_library/build/CMakeFiles/list_install_components.dir
+/Users/armand/Documents/cpp/creating_a_header_only_library/build/CMakeFiles/rebuild_cache.dir
+/Users/armand/Documents/cpp/creating_a_header_only_library/build/CMakeFiles/edit_cache.dir
