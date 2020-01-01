@@ -11,10 +11,14 @@ class logger
 {
 public:
     logger() = delete;
-    logger(const std::unordered_map<std::string, std::string>&){}
+    logger(const std::unordered_map<std::string, std::string>&) : lock{}
+    {}
     virtual ~logger(){}
     virtual void log(const std::string&, const log_level){}
     virtual void log(const std::string&){}
+
+protected:
+    std::mutex lock;
 };
 
 } // logging
